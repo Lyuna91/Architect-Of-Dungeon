@@ -1,0 +1,12 @@
+Sequence des deplacements : EEESSSSSSOOOOONNN 
+Nombre de deplacement pour le traverver : 17 
+
+      # # # #   
+            #   
+      # #   #   
+        #   #   
+  #     #   #   
+  #     #   #   
+  # # # #   #   
+            #   
+# # # # # # #   

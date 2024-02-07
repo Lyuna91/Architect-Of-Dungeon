@@ -1,0 +1,6 @@
+Une salle de dimension 5 sur 5 
+# O # # # 
+# P     # 
+#       O 
+# M   M # 
+# # O # # 
